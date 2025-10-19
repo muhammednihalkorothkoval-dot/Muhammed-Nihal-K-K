@@ -1,0 +1,5 @@
+{
+  "name": "VIP Registry App",
+  "description": "A dual-mode web application featuring a public chat assistant for VIP inquiries and a private, password-protected admin dashboard for managing the VIP registry.",
+  "requestFramePermissions": []
+}
